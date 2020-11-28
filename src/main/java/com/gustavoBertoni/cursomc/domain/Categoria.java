@@ -18,7 +18,7 @@ public class Categoria implements Serializable{
 	private String nome;
 	
 	public Categoria() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public Categoria(Integer id, String nome) {
